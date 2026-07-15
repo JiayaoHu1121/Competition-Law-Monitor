@@ -1,0 +1,5 @@
+{
+  "feishu_webhook": "https://open.feishu.cn/open-apis/bot/v2/hook/你的webhook",
+  "chinese_keywords": ["华为", "Huawei", "中兴", "ZTE", "比亚迪", "BYD", "阿里巴巴", "Alibaba", "腾讯", "Tencent", "中国企业", "中国公司"],
+  "max_items_per_day": 10
+}
